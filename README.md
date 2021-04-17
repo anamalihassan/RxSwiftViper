@@ -4,7 +4,7 @@
  
  ## Design Pattern
  
- I have built coding challenge as "RxSwiftViper" app. This assignment doesn't use any storyboard or xib file. I also have used VIPER architecutre as it gives better reusability. I had gone through several forums discussions to analyze comparision between MVVM & VIPER and concluded that VIPER is better option for a larger team working on the same project as it supports more scalability. Below is one link that gives high level comparison of both:
+ I have built the project as "RxSwiftViper" app. This assignment doesn't use any storyboard or xib file. I also have used VIPER architecutre as it gives better reusability. I had gone through several forums discussions to analyze comparision between MVVM & VIPER and concluded that VIPER is better option for a larger team working on the same project as it supports more scalability. Below is one link that gives high level comparison of both:
  https://medium.com/developermind/blurring-the-lines-between-mvvm-and-viper-dcb3dc9815ac
  
  ## Dependencies
