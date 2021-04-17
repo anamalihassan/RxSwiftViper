@@ -4,7 +4,7 @@
  
  ## Design Pattern
  
- I have built the project as "RxSwiftViper" app. This assignment doesn't use any storyboard or xib file. I also have used VIPER architecutre as it gives better reusability. I had gone through several forums discussions to analyze comparision between MVVM & VIPER and concluded that VIPER is better option for a larger team working on the same project as it supports more scalability. Below is one link that gives high level comparison of both:
+ I have built the project as "RxSwiftViper" app and it doesn't use any storyboard or xib file. I also have used VIPER architecutre as it gives better reusability. I had gone through several forums discussions to analyze comparision between MVVM & VIPER and concluded that VIPER is better option for a larger team working on the same project as it supports more scalability. Below is one link that gives high level comparison of both:
  https://medium.com/developermind/blurring-the-lines-between-mvvm-and-viper-dcb3dc9815ac
  
  ## Dependencies
@@ -23,9 +23,9 @@
   
   ## Logic
   
--Stations and Bus Schedule implement VIPER pattern in swift with each folder defining: view, presenter, and interactor. 
--Bus Stations are hardcoded but are implemented in a way that API service can be used. 
--Bus Schedule fetches data for given Bus Station and groups them into departure and arrival array models based on date. When direction button is tapped, deparature and arrivals are switched. Pull to referesh will fetch and update data again.
+- Stations and Bus Schedule implement VIPER pattern in swift with each folder defining: view, presenter, and interactor. 
+- Bus Stations are hardcoded but are implemented in a way that API service can be used. 
+- Bus Schedule fetches data for given Bus Station and groups them into departure and arrival array models based on date. When direction button is tapped, deparature and arrivals are switched. Pull to referesh will fetch and update data again.
   
   ## Testing
   
